@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning R, SQL, JS, Statistics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Github
-- 👨‍🎓 & Work at University of Salzburg 
+- 👨‍🎓 Study at University of Salzburg 
+- 💼 Work at UNIGIS Salzburg
 
 <!---
 Secreez/Secreez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
