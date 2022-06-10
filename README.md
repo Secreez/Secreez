@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Github
 - 👨‍🎓 Study at University of Salzburg - DIG Bachelor 2nd-semester
-- 💼 Work at UNIGIS Salzburg - Jr. Database-Administrator
+- 💼 Work at Z-GIS - UNIGIS Salzburg - Jr. Database-Administrator
 
 <!---
 Secreez/Secreez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
