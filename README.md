@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Secreez - Max
 - 👀 I’m interested in it-security, programming, remote-sensing, statistics, modelling, data-engineering, 
-- 🌱 I’m currently learning R, TSQL, VBA, Statistics.
+- 🌱 I’m currently learning Advanced Python and R, GIS-Tools.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Github
 - 👨‍🎓 Study at University of Salzburg - DIG Bachelor 3rd-semester
