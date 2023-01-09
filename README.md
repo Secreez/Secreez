@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Secreez - Max
-- 👀 I’m interested in it-security, programming, statistics, modelling, 
+- 👀 I’m interested in security and privacy, programming, statistics, modelling, game dev and design.
 - 🌱 I’m currently learning Advanced Python and GIS-Tools.
 - 📫 How to reach me: Github, Twitter: https://twitter.com/Araz0s
 - 👨‍🎓 Study at University of Salzburg - DIG Bachelor 3rd-semester
