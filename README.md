@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Advanced Python and GIS-Tools.
 - 📫 How to reach me: Github, Twitter: https://twitter.com/Araz0s
 - 👨‍🎓 Study at University of Salzburg - DIG Bachelor 4th-semester
-- 💼 Work at Z_GIS - UNIGIS Salzburg - as a Research assistant working mostly on debugging and data analysis right now.
+- 💼 Work at Z_GIS - UNIGIS Salzburg - as a Research assistant working mostly on debugging and data analysis aswell as reviewing modules right now.
