@@ -1,5 +1,4 @@
-# Secreez - Max: Security, Privacy, and Data Science Enthusiast
-👋 Hi, I'm Secreez - Max! I'm passionate about all things related to security, privacy, and data science. When I'm not working, you can usually find me programming, doing system-related stuff or studying.
+👋 Hi, I'm Secreez or Max! I'm passionate about technology and data, especially backend development, data analysis, automation, and server-side technologies. When I'm not working, you can usually find me programming, doing system-related stuff or studying.
 
 ## What I'm Currently Learning
 Right now, I'm focusing on three key areas:
