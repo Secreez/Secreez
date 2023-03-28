@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Secreez - Max
 - 👀 I’m interested in security and privacy, programming, statistics, modelling, game dev and design.
 - 🌱 I’m currently learning Advanced Python and GIS-Tools.
-- 📫 How to reach me: Github, Twitter: https://twitter.com/Araz0s
+- 📫 How to reach me: Github, Linkedin: https://www.linkedin.com/in/maximilian-elixhauser-b5b7b920b
 - 👨‍🎓 Study at University of Salzburg - DIG Bachelor 4th-semester
 - 💼 Work at Z_GIS - UNIGIS Salzburg - as a Research assistant working mostly on debugging and data analysis aswell as reviewing modules right now.
