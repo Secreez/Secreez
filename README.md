@@ -5,7 +5,7 @@ Right now, I'm focusing on three key areas:
 
 Big Data Algorithms: Big data and learning about the algorithms that make it possible to process and analyze vast amounts of information via Python.
 
-Backend Development: Deepening my knowledge of backend development, with a focus on server-side technologies such as Flask and Django, PostgreSQL.. I'm also gaining experience with Linux based server administration and learning about tools like Apache and Nginx.
+Backend Development: Deepening my knowledge of backend in the development side, with a focus on server-side technologies such as Flask and Django, PostgreSQL.. I'm also gaining even more experience with Linux based server administration and learning about tools like Apache and Nginx.
 
 Advanced GIS-Tools: I'm continuing to learn about Geographic Information Systems (GIS) and exploring advanced tools and techniques for analyzing spatial data...
 
